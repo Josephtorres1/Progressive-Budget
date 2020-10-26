@@ -8,7 +8,8 @@ This is an application that provides the user with the ability to track their de
 
 1. [Installation Instructions](#installation-instructions)
 2. [Contributors](#contributors)
-3. [Questions](#questions)
+3. [Test](#test)
+4. [Questions](#questions)
 
 ## Installation Instructions
 
@@ -18,6 +19,9 @@ You can install the application by cloning it to your local machine. Once the ap
 
 Created by Joseph Torres
 
+## Test 
+
+Deployed application link: https://quiet-escarpment-01839.herokuapp.com/
 # Questions
 
 For any questions about the assignment, please feel free to reach out to me via email. Thanks for viewing this application.
